@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @simonedaltardi
 - 👀 I’m interested in learning programming languages, in hacking and in a lot of other things. 
-- 🌱 I’m currently learning C++, HTML ( I know that HTML isn't a programming language but it is great to know )
+- 🌱 I’m currently learning C++, treeJS and I'm also learning C language in University which I like and of course also python.
 - 💞️ I’m looking to collaborate on making website pages, C++ program and game...
-- 📫 REACH ME -----> DaltaTech@proton.me
+- 📫 REACH ME -----> dalta.ctf@gmail.com
+- PERSONAL PORTFOLIO UNDER CONSTRUCTION (BTW: IT'S AMAZING)...
 
 <!---
 simonedaltardi/simonedaltardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
