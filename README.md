@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, treeJS and I'm also learning C language in University which I like and of course also python.
 - 💞️ I’m looking to collaborate on making website pages, C++ program and game...
 - 📫 REACH ME -----> dalta.ctf@gmail.com
-- PERSONAL PORTFOLIO UNDER CONSTRUCTION (BTW: IT'S AMAZING)...
+- CYBERSECURITY GEEK
 
 <!---
 simonedaltardi/simonedaltardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
